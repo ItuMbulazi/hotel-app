@@ -1,0 +1,28 @@
+.Formlogo{
+    width:500px;
+    height:500px;
+}
+
+input{
+    width:900px;
+
+    height:40px;
+    margin:20px;
+}
+
+select{
+    width:900px;
+    height:40px;
+}
+
+.date{
+    margin-left:20px;
+}
+
+.date input{
+    width:850px;
+}
+
+.btn{
+    background-color: #0F0E3C;
+}

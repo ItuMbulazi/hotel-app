@@ -1,0 +1,24 @@
+
+
+img{
+    width:100px;
+    height:100px;
+}
+.logo{
+    margin-left:-300px;
+}
+.custom{
+background-color: #0F0E3C;
+}
+
+.jumbotron{
+  
+    width:2150px;
+    height:700px;
+    background-repeat: no-repeat;
+}
+
+.Nav{
+    color:#0F0E3C
+}
+

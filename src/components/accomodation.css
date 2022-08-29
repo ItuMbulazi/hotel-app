@@ -1,0 +1,39 @@
+.card1{
+    margin-top:600px;
+    margin-left:600px;
+    width:100px;
+    height:178px;
+}
+
+button{
+    margin-top:10px;
+    height:50px;
+
+
+}
+
+.accombtn{
+    width:50px;
+    height:80px;
+    background-color:#0F0E3C
+    
+}
+
+.accombtn2{
+    margin-top:10px;
+    text-align: center;
+}
+
+.modalpic{
+    width:400px;
+    height:200px;
+    
+}
+
+.btnTxt{
+    color:white
+}
+
+.txt{
+    margin-top:15px;
+}
